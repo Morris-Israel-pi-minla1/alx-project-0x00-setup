@@ -17,6 +17,8 @@ const Landing = () => {
             <Button title="Book Now" size="medium" shape="rounded-md" styles="bg-blue-400 text-white"/>
             <br />
             <Button title="Book Now" size="large" shape="rounded-full" styles="bg-blue-500 text-white"/>
+            <br />
+            <Button title="Book Now" size="large" shape="rounded-lg" styles="bg-blue-500 text-white"/>
         </div>)
 }
 
